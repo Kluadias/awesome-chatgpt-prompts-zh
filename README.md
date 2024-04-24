@@ -80,13 +80,15 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 
 
+
 ## 加入星球
 
 非常感激您对此项目的关注和支持。我一直在努力，提供最有价值和易于理解的指南。如果您觉得我的项目对您有所帮助，想进一步了解更进，可以加入我的知识星球。扫码了解详情：
 
 | 知识星球         | 微信赞赏      | 
 | ------------ | ------------ | 
-| <img src="https://user-images.githubusercontent.com/15922823/218308300-0791ed4a-4c27-4358-ae77-21f910249291.png" width="300"/> | <img src="https://user-images.githubusercontent.com/15922823/217595380-ed95381c-271d-4aba-98a1-3cfd8cf5ed73.png" width="300"/> |
+| <img src="https://user-images.githubusercontent.com/15922823/218308300-0791ed4a-4c27-4358-ae77-21f910249291.png" width="300"/> | <img src="[https://user-images.githubusercontent.com/15922823/217595380-ed95381c-271d-4aba-98a1-3cfd8cf5ed73](https://github.com/Kluadias/awesome-chatgpt-prompts-zh/assets/49857445/40881352-8989-49f2-bae8-ae254707f46b).png" width="300"/> |
+
 
 
 
