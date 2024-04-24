@@ -87,7 +87,7 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 | 知识星球         | 微信赞赏      | 
 | ------------ | ------------ | 
-| <img src="https://user-images.githubusercontent.com/15922823/218308300-0791ed4a-4c27-4358-ae77-21f910249291.png" width="300"/> | <img src="[https://user-images.githubusercontent.com/15922823/217595380-ed95381c-271d-4aba-98a1-3cfd8cf5ed73](https://github.com/Kluadias/awesome-chatgpt-prompts-zh/assets/49857445/40881352-8989-49f2-bae8-ae254707f46b).png" width="300"/> |
+| <img src="https://user-images.githubusercontent.com/15922823/218308300-0791ed4a-4c27-4358-ae77-21f910249291.png" width="300"/> | <img src="https://github.com/Kluadias/awesome-chatgpt-prompts-zh/assets/49857445/40881352-8989-49f2-bae8-ae254707f46b" width="300"/> |
 
 
 
